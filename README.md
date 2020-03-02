@@ -23,4 +23,5 @@ Execute `yarn` & `react-native run-android` ou `react-native run-ios`
 
 ### Demo
 
-![Farmers Market Finder Demo](demo/demo.gif)
+<img src="demo/demo.gif" width="400" height="800">
+
